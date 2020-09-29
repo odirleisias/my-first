@@ -1,0 +1,1 @@
+Este arquivo só vai para o master depois do pull request
