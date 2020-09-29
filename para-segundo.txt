@@ -1,0 +1,1 @@
+Este arquivo foi criado pelo master e nao deve ser visualizado pelo branch segundo antes do pull request
